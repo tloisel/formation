@@ -49,8 +49,8 @@ po/*~
 rsconnect/
 
 
-.pdf
-.html
+*.pdf
+*.html
 
 
 data/*
